@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/6.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) 
+[![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/2.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/6.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/0.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/1.gif)](https://github.com/YakaTeam/artifacts/releases/latest) [![Download](https://rule34.xxx/counter/3.gif)](https://github.com/YakaTeam/artifacts/releases/latest) 
 
 </div>
 
