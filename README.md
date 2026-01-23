@@ -12,7 +12,7 @@
 </div>
 
 ### Contribute
-**👋 You can contribute by push your patches / fixes about parsers in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit translations [here](https://github.com/YAKATeam/translate).**
+**👋 You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit all translations for application in this repository](https://github.com/YAKATeam/translate).**
 
 -----------------
 
@@ -36,9 +36,7 @@ https://github.com/YakaTeam/kotatsu-parsers/issues/new/
 
 <div align="left">
 
-You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications
-to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build &
-install instructions.
+All programs from Yumemi™ Project and [YakaTeam](https://github.com/YakaTeam) are free, open-source programs under the GPL license. You may copy, distribute, and modify the software as long as you keep track of changes/dates in the source files. Any modifications to the software, including code licensed under the GPL (via a compiler), must also be provided under the GPL license.
 
 </div>
 
