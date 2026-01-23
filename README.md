@@ -12,7 +12,7 @@
 </div>
 
 ### Contribute
-**👋 You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit all translations for application in this repository](https://github.com/YAKATeam/translate).**
+**👋 You can contribute by push your patches / fixes about parsers (sources) in [this repository](https://github.com/YAKATeam/kotatsu-parsers). You can also add / edit all translations for application in [this repository](https://github.com/YAKATeam/translate).**
 
 -----------------
 
